@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **codeaprogram@gmail.com**
 
-- My youtube channel - ![Code A Program](https://www.youtube.com/@CodeAProgram)
+- My youtube channel - <a href="https://www.youtube.com/@CodeAProgram">Code A Program</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

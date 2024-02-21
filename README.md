@@ -1,4 +1,4 @@
-![YoutubeLogoGIF](https://github.com/Sridhar-C-25/Sridhar-c-25/assets/75136330/1f34b9e8-86c7-48f8-a835-0419562d6cbf)<h1 align="center">Hi 👋, I'm Sridhar Chandrasekar</h1>
+<h1 align="center">Hi 👋, I'm Sridhar Chandrasekar</h1>
 <h3 align="center">A passionate FullStack developer & Youtuber from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sridhar-c-25&label=Profile%20views&color=0e75b6&style=flat" alt="sridhar-c-25" /> </p>
